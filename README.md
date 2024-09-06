@@ -25,7 +25,7 @@ Welcome to our Animated Website GitHub project, a platform where creativity meet
 
 ## Getting Started
 
-1. Clone the repository: git clone 
+1. Clone the repository: git clone https://github.com/zodean123/jubilant.git
 
 2. Customize animations and styles according to your project requirements.
 
